@@ -13,6 +13,5 @@ Normalization for this purpose is a high level of contrast between the object(s)
 
 
 Future additions:
-<br>1)Distrort the video input textures (or output textures) to accurately map video projection output.
-<br>2)Further optimise the centroids section to be openGL based.
-<br>3) Determine the angle of each camera, and adjust accordingly, to accurately map non-right angled spaces.
+<br>1)Further optimise the centroids section to be openGL based.
+<br>2) Determine the angle of each camera, and adjust accordingly, to accurately map non-right angled spaces.
